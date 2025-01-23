@@ -1,6 +1,12 @@
+
 # AI Chat Application with Text-to-Speech
 
 A modern, full-stack chat application built with Next.js 15 that features real-time AI responses, code syntax highlighting, text-to-speech capabilities, and Google authentication.
+Try the app here: https://simple-chatapp-iota.vercel.app/
+
+## Preview of the chat interface in deployment
+
+<img width="1470" alt="Screenshot 2025-01-23 at 1 19 36 AM" src="https://github.com/user-attachments/assets/3530e7d5-41ca-40b8-82f4-e94f2764cabf" />
 
 ## 🚀 Tech Stack
 
@@ -148,10 +154,6 @@ vercel
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
